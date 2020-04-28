@@ -2,8 +2,8 @@
 NTU 2020 Spring, Operating System
 
 ## 執行環境
- + Ubuntu 16.04
- + linux version == 4.14.25
+ + linux version --> 4.14.25
+ + Ubuntu --> 16.04
  
 ## 執行方式
  + Compile
